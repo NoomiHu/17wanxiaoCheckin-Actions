@@ -37,6 +37,7 @@
 3. ~~自动化任务分三次运行~~（ps：目前已关闭校内打卡）
    - `上午六点多`：健康打卡
 4. 微信推送打卡消息
+          
 
 ## 💢使用方法（已修复） —— 也可使用 [腾讯云函数](https://github.com/ReaJason/17wanxiaoCheckin-Actions/blob/master/17wanxiaoCheckin-SCF.md)
 
